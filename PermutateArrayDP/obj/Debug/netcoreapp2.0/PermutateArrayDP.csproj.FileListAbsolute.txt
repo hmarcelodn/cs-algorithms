@@ -1,0 +1,11 @@
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\PermutateArrayDP\bin\Debug\netcoreapp2.0\PermutateArrayDP.deps.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\PermutateArrayDP\bin\Debug\netcoreapp2.0\PermutateArrayDP.runtimeconfig.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\PermutateArrayDP\bin\Debug\netcoreapp2.0\PermutateArrayDP.runtimeconfig.dev.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\PermutateArrayDP\bin\Debug\netcoreapp2.0\PermutateArrayDP.dll
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\PermutateArrayDP\bin\Debug\netcoreapp2.0\PermutateArrayDP.pdb
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\PermutateArrayDP\obj\Debug\netcoreapp2.0\PermutateArrayDP.csprojResolveAssemblyReference.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\PermutateArrayDP\obj\Debug\netcoreapp2.0\PermutateArrayDP.csproj.CoreCompileInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\PermutateArrayDP\obj\Debug\netcoreapp2.0\PermutateArrayDP.AssemblyInfoInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\PermutateArrayDP\obj\Debug\netcoreapp2.0\PermutateArrayDP.AssemblyInfo.cs
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\PermutateArrayDP\obj\Debug\netcoreapp2.0\PermutateArrayDP.dll
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\PermutateArrayDP\obj\Debug\netcoreapp2.0\PermutateArrayDP.pdb
