@@ -1,0 +1,11 @@
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\WebCrawler\bin\Debug\netcoreapp2.0\WebCrawler.deps.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\WebCrawler\bin\Debug\netcoreapp2.0\WebCrawler.runtimeconfig.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\WebCrawler\bin\Debug\netcoreapp2.0\WebCrawler.runtimeconfig.dev.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\WebCrawler\bin\Debug\netcoreapp2.0\WebCrawler.dll
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\WebCrawler\bin\Debug\netcoreapp2.0\WebCrawler.pdb
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\WebCrawler\obj\Debug\netcoreapp2.0\WebCrawler.csprojResolveAssemblyReference.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\WebCrawler\obj\Debug\netcoreapp2.0\WebCrawler.csproj.CoreCompileInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\WebCrawler\obj\Debug\netcoreapp2.0\WebCrawler.AssemblyInfoInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\WebCrawler\obj\Debug\netcoreapp2.0\WebCrawler.AssemblyInfo.cs
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\WebCrawler\obj\Debug\netcoreapp2.0\WebCrawler.dll
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\WebCrawler\obj\Debug\netcoreapp2.0\WebCrawler.pdb

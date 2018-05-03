@@ -1,0 +1,11 @@
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\BellmanFord\bin\Debug\netcoreapp2.0\BellmanFord.deps.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\BellmanFord\bin\Debug\netcoreapp2.0\BellmanFord.runtimeconfig.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\BellmanFord\bin\Debug\netcoreapp2.0\BellmanFord.runtimeconfig.dev.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\BellmanFord\bin\Debug\netcoreapp2.0\BellmanFord.dll
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\BellmanFord\bin\Debug\netcoreapp2.0\BellmanFord.pdb
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\BellmanFord\obj\Debug\netcoreapp2.0\BellmanFord.csprojResolveAssemblyReference.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\BellmanFord\obj\Debug\netcoreapp2.0\BellmanFord.csproj.CoreCompileInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\BellmanFord\obj\Debug\netcoreapp2.0\BellmanFord.AssemblyInfoInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\BellmanFord\obj\Debug\netcoreapp2.0\BellmanFord.AssemblyInfo.cs
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\BellmanFord\obj\Debug\netcoreapp2.0\BellmanFord.dll
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\BellmanFord\obj\Debug\netcoreapp2.0\BellmanFord.pdb

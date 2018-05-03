@@ -1,0 +1,11 @@
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Trie2\bin\Debug\netcoreapp2.0\Trie2.deps.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Trie2\bin\Debug\netcoreapp2.0\Trie2.runtimeconfig.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Trie2\bin\Debug\netcoreapp2.0\Trie2.runtimeconfig.dev.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Trie2\bin\Debug\netcoreapp2.0\Trie2.dll
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Trie2\bin\Debug\netcoreapp2.0\Trie2.pdb
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Trie2\obj\Debug\netcoreapp2.0\Trie2.csprojResolveAssemblyReference.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Trie2\obj\Debug\netcoreapp2.0\Trie2.csproj.CoreCompileInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Trie2\obj\Debug\netcoreapp2.0\Trie2.AssemblyInfoInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Trie2\obj\Debug\netcoreapp2.0\Trie2.AssemblyInfo.cs
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Trie2\obj\Debug\netcoreapp2.0\Trie2.dll
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Trie2\obj\Debug\netcoreapp2.0\Trie2.pdb

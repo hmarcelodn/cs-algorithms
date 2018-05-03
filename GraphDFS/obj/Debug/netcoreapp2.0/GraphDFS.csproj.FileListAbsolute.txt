@@ -1,0 +1,11 @@
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\GraphDFS\bin\Debug\netcoreapp2.0\GraphDFS.deps.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\GraphDFS\bin\Debug\netcoreapp2.0\GraphDFS.runtimeconfig.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\GraphDFS\bin\Debug\netcoreapp2.0\GraphDFS.runtimeconfig.dev.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\GraphDFS\bin\Debug\netcoreapp2.0\GraphDFS.dll
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\GraphDFS\bin\Debug\netcoreapp2.0\GraphDFS.pdb
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\GraphDFS\obj\Debug\netcoreapp2.0\GraphDFS.csprojResolveAssemblyReference.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\GraphDFS\obj\Debug\netcoreapp2.0\GraphDFS.csproj.CoreCompileInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\GraphDFS\obj\Debug\netcoreapp2.0\GraphDFS.AssemblyInfoInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\GraphDFS\obj\Debug\netcoreapp2.0\GraphDFS.AssemblyInfo.cs
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\GraphDFS\obj\Debug\netcoreapp2.0\GraphDFS.dll
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\GraphDFS\obj\Debug\netcoreapp2.0\GraphDFS.pdb

@@ -1,0 +1,11 @@
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\CycleDetectionDFS\bin\Debug\netcoreapp2.0\CycleDetectionDFS.deps.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\CycleDetectionDFS\bin\Debug\netcoreapp2.0\CycleDetectionDFS.runtimeconfig.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\CycleDetectionDFS\bin\Debug\netcoreapp2.0\CycleDetectionDFS.runtimeconfig.dev.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\CycleDetectionDFS\bin\Debug\netcoreapp2.0\CycleDetectionDFS.dll
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\CycleDetectionDFS\bin\Debug\netcoreapp2.0\CycleDetectionDFS.pdb
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\CycleDetectionDFS\obj\Debug\netcoreapp2.0\CycleDetectionDFS.csprojResolveAssemblyReference.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\CycleDetectionDFS\obj\Debug\netcoreapp2.0\CycleDetectionDFS.csproj.CoreCompileInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\CycleDetectionDFS\obj\Debug\netcoreapp2.0\CycleDetectionDFS.AssemblyInfoInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\CycleDetectionDFS\obj\Debug\netcoreapp2.0\CycleDetectionDFS.AssemblyInfo.cs
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\CycleDetectionDFS\obj\Debug\netcoreapp2.0\CycleDetectionDFS.dll
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\CycleDetectionDFS\obj\Debug\netcoreapp2.0\CycleDetectionDFS.pdb

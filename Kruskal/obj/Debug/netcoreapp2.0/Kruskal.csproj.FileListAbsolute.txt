@@ -1,0 +1,11 @@
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Kruskal\bin\Debug\netcoreapp2.0\Kruskal.deps.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Kruskal\bin\Debug\netcoreapp2.0\Kruskal.runtimeconfig.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Kruskal\bin\Debug\netcoreapp2.0\Kruskal.runtimeconfig.dev.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Kruskal\bin\Debug\netcoreapp2.0\Kruskal.dll
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Kruskal\bin\Debug\netcoreapp2.0\Kruskal.pdb
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Kruskal\obj\Debug\netcoreapp2.0\Kruskal.csprojResolveAssemblyReference.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Kruskal\obj\Debug\netcoreapp2.0\Kruskal.csproj.CoreCompileInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Kruskal\obj\Debug\netcoreapp2.0\Kruskal.AssemblyInfoInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Kruskal\obj\Debug\netcoreapp2.0\Kruskal.AssemblyInfo.cs
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Kruskal\obj\Debug\netcoreapp2.0\Kruskal.dll
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Kruskal\obj\Debug\netcoreapp2.0\Kruskal.pdb

@@ -1,0 +1,11 @@
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\TopologicalOrdering\bin\Debug\netcoreapp2.0\TopologicalOrdering.deps.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\TopologicalOrdering\bin\Debug\netcoreapp2.0\TopologicalOrdering.runtimeconfig.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\TopologicalOrdering\bin\Debug\netcoreapp2.0\TopologicalOrdering.runtimeconfig.dev.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\TopologicalOrdering\bin\Debug\netcoreapp2.0\TopologicalOrdering.dll
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\TopologicalOrdering\bin\Debug\netcoreapp2.0\TopologicalOrdering.pdb
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\TopologicalOrdering\obj\Debug\netcoreapp2.0\TopologicalOrdering.csprojResolveAssemblyReference.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\TopologicalOrdering\obj\Debug\netcoreapp2.0\TopologicalOrdering.csproj.CoreCompileInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\TopologicalOrdering\obj\Debug\netcoreapp2.0\TopologicalOrdering.AssemblyInfoInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\TopologicalOrdering\obj\Debug\netcoreapp2.0\TopologicalOrdering.AssemblyInfo.cs
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\TopologicalOrdering\obj\Debug\netcoreapp2.0\TopologicalOrdering.dll
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\TopologicalOrdering\obj\Debug\netcoreapp2.0\TopologicalOrdering.pdb

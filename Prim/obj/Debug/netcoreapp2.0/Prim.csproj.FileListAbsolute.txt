@@ -1,0 +1,11 @@
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Prim\bin\Debug\netcoreapp2.0\Prim.deps.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Prim\bin\Debug\netcoreapp2.0\Prim.runtimeconfig.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Prim\bin\Debug\netcoreapp2.0\Prim.runtimeconfig.dev.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Prim\bin\Debug\netcoreapp2.0\Prim.dll
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Prim\bin\Debug\netcoreapp2.0\Prim.pdb
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Prim\obj\Debug\netcoreapp2.0\Prim.csprojResolveAssemblyReference.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Prim\obj\Debug\netcoreapp2.0\Prim.csproj.CoreCompileInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Prim\obj\Debug\netcoreapp2.0\Prim.AssemblyInfoInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Prim\obj\Debug\netcoreapp2.0\Prim.AssemblyInfo.cs
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Prim\obj\Debug\netcoreapp2.0\Prim.dll
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Prim\obj\Debug\netcoreapp2.0\Prim.pdb

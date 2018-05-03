@@ -1,0 +1,11 @@
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\SpecialFamily\bin\Debug\netcoreapp2.0\SpecialFamily.deps.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\SpecialFamily\bin\Debug\netcoreapp2.0\SpecialFamily.runtimeconfig.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\SpecialFamily\bin\Debug\netcoreapp2.0\SpecialFamily.runtimeconfig.dev.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\SpecialFamily\bin\Debug\netcoreapp2.0\SpecialFamily.dll
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\SpecialFamily\bin\Debug\netcoreapp2.0\SpecialFamily.pdb
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\SpecialFamily\obj\Debug\netcoreapp2.0\SpecialFamily.csprojResolveAssemblyReference.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\SpecialFamily\obj\Debug\netcoreapp2.0\SpecialFamily.csproj.CoreCompileInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\SpecialFamily\obj\Debug\netcoreapp2.0\SpecialFamily.AssemblyInfoInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\SpecialFamily\obj\Debug\netcoreapp2.0\SpecialFamily.AssemblyInfo.cs
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\SpecialFamily\obj\Debug\netcoreapp2.0\SpecialFamily.dll
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\SpecialFamily\obj\Debug\netcoreapp2.0\SpecialFamily.pdb

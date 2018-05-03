@@ -1,0 +1,11 @@
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Dijkstra\bin\Debug\netcoreapp2.0\Dijkstra.deps.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Dijkstra\bin\Debug\netcoreapp2.0\Dijkstra.runtimeconfig.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Dijkstra\bin\Debug\netcoreapp2.0\Dijkstra.runtimeconfig.dev.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Dijkstra\bin\Debug\netcoreapp2.0\Dijkstra.dll
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Dijkstra\bin\Debug\netcoreapp2.0\Dijkstra.pdb
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Dijkstra\obj\Debug\netcoreapp2.0\Dijkstra.csprojResolveAssemblyReference.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Dijkstra\obj\Debug\netcoreapp2.0\Dijkstra.csproj.CoreCompileInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Dijkstra\obj\Debug\netcoreapp2.0\Dijkstra.AssemblyInfoInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Dijkstra\obj\Debug\netcoreapp2.0\Dijkstra.AssemblyInfo.cs
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Dijkstra\obj\Debug\netcoreapp2.0\Dijkstra.dll
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Dijkstra\obj\Debug\netcoreapp2.0\Dijkstra.pdb

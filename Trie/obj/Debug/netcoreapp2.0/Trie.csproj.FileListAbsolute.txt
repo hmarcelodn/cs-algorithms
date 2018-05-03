@@ -1,0 +1,10 @@
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Trie\bin\Debug\netcoreapp2.0\Trie.deps.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Trie\bin\Debug\netcoreapp2.0\Trie.runtimeconfig.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Trie\bin\Debug\netcoreapp2.0\Trie.runtimeconfig.dev.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Trie\bin\Debug\netcoreapp2.0\Trie.dll
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Trie\bin\Debug\netcoreapp2.0\Trie.pdb
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Trie\obj\Debug\netcoreapp2.0\Trie.csproj.CoreCompileInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Trie\obj\Debug\netcoreapp2.0\Trie.AssemblyInfoInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Trie\obj\Debug\netcoreapp2.0\Trie.AssemblyInfo.cs
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Trie\obj\Debug\netcoreapp2.0\Trie.dll
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Trie\obj\Debug\netcoreapp2.0\Trie.pdb

@@ -1,0 +1,11 @@
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\MazeSolver\bin\Debug\netcoreapp2.0\MazeSolver.deps.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\MazeSolver\bin\Debug\netcoreapp2.0\MazeSolver.runtimeconfig.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\MazeSolver\bin\Debug\netcoreapp2.0\MazeSolver.runtimeconfig.dev.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\MazeSolver\bin\Debug\netcoreapp2.0\MazeSolver.dll
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\MazeSolver\bin\Debug\netcoreapp2.0\MazeSolver.pdb
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\MazeSolver\obj\Debug\netcoreapp2.0\MazeSolver.csprojResolveAssemblyReference.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\MazeSolver\obj\Debug\netcoreapp2.0\MazeSolver.csproj.CoreCompileInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\MazeSolver\obj\Debug\netcoreapp2.0\MazeSolver.AssemblyInfoInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\MazeSolver\obj\Debug\netcoreapp2.0\MazeSolver.AssemblyInfo.cs
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\MazeSolver\obj\Debug\netcoreapp2.0\MazeSolver.dll
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\MazeSolver\obj\Debug\netcoreapp2.0\MazeSolver.pdb
