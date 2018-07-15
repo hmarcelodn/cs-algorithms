@@ -1,0 +1,11 @@
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\DFS\bin\Debug\netcoreapp2.0\DFS.deps.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\DFS\bin\Debug\netcoreapp2.0\DFS.runtimeconfig.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\DFS\bin\Debug\netcoreapp2.0\DFS.runtimeconfig.dev.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\DFS\bin\Debug\netcoreapp2.0\DFS.dll
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\DFS\bin\Debug\netcoreapp2.0\DFS.pdb
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\DFS\obj\Debug\netcoreapp2.0\DFS.csproj.CoreCompileInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\DFS\obj\Debug\netcoreapp2.0\DFS.AssemblyInfoInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\DFS\obj\Debug\netcoreapp2.0\DFS.AssemblyInfo.cs
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\DFS\obj\Debug\netcoreapp2.0\DFS.dll
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\DFS\obj\Debug\netcoreapp2.0\DFS.pdb
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\DFS\obj\Debug\netcoreapp2.0\DFS.csprojResolveAssemblyReference.cache

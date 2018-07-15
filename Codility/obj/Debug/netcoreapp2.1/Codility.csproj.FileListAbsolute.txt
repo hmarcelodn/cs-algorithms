@@ -1,0 +1,11 @@
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Codility\bin\Debug\netcoreapp2.1\Codility.deps.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Codility\bin\Debug\netcoreapp2.1\Codility.runtimeconfig.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Codility\bin\Debug\netcoreapp2.1\Codility.runtimeconfig.dev.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Codility\bin\Debug\netcoreapp2.1\Codility.dll
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Codility\bin\Debug\netcoreapp2.1\Codility.pdb
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Codility\obj\Debug\netcoreapp2.1\Codility.csprojResolveAssemblyReference.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Codility\obj\Debug\netcoreapp2.1\Codility.csproj.CoreCompileInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Codility\obj\Debug\netcoreapp2.1\Codility.AssemblyInfoInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Codility\obj\Debug\netcoreapp2.1\Codility.AssemblyInfo.cs
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Codility\obj\Debug\netcoreapp2.1\Codility.dll
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\Codility\obj\Debug\netcoreapp2.1\Codility.pdb

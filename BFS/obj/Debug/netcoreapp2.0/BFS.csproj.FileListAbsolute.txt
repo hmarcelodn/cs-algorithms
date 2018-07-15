@@ -1,0 +1,11 @@
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\BFS\bin\Debug\netcoreapp2.0\BFS.deps.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\BFS\bin\Debug\netcoreapp2.0\BFS.runtimeconfig.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\BFS\bin\Debug\netcoreapp2.0\BFS.runtimeconfig.dev.json
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\BFS\bin\Debug\netcoreapp2.0\BFS.dll
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\BFS\bin\Debug\netcoreapp2.0\BFS.pdb
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\BFS\obj\Debug\netcoreapp2.0\BFS.csprojResolveAssemblyReference.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\BFS\obj\Debug\netcoreapp2.0\BFS.csproj.CoreCompileInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\BFS\obj\Debug\netcoreapp2.0\BFS.AssemblyInfoInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\BFS\obj\Debug\netcoreapp2.0\BFS.AssemblyInfo.cs
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\BFS\obj\Debug\netcoreapp2.0\BFS.dll
+C:\Users\BEL_DelNegroH\source\repos\AdvancedAlgorithms\BFS\obj\Debug\netcoreapp2.0\BFS.pdb
