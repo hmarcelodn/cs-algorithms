@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections;
+using System.Diagnostics;
 
 namespace Codility
 {
@@ -16,9 +17,15 @@ namespace Codility
             int[] A = new int[10] { 0, 1, 3, -2, 0, 1, 0, -3, 2, 3 };
 
             // Recursion
+            Stopwatch sw = new Stopwatch();
+            sw.Start();
             recurse(A, p, q, r);
+            sw.Stop();
 
-            Console.Write(string.Format("Max: {0}", max));
+            Console.WriteLine("");
+            Console.WriteLine(string.Format("Max Deepth: {0}", max));
+            Console.WriteLine(string.Format("Elapsed: {0}", sw.Elapsed));
+
             Console.ReadKey();
         }
 
@@ -36,6 +43,7 @@ namespace Codility
                 bool valid = true;
                 string k = p.ToString() + q.ToString() + r.ToString();
 
+                // Memoization
                 if(!_cache.ContainsKey(k)) {
                     // Checking constraints
                     
@@ -63,13 +71,13 @@ namespace Codility
 
                     if (valid)
                     {
+                        Console.WriteLine(string.Format("P: {0} , Q: {1}, R: {2}", p, q, r));
                         // Depths
                         int depth = Math.Min(A[p] - A[q], A[r] - A[q]);
                         if (depth > max)
                         {
                             max = depth;
                             Console.WriteLine("MaxDetected: " + max);
-                            Console.WriteLine(string.Format("P: {0} , Q: {1}, R: {2}", p, q, r));
                         }
                     }
 
